@@ -4,7 +4,7 @@
 
 ## 🧠 Professional Summary
 
-Machine Learning Engineer specializing in **Computer Vision** and **Deep Learning**. I build, optimize, and deploy end-to-end AI systems—bridging the gap between raw data and production-ready applications. My expertise lies in designing robust Neural Networks (CNNs), handling data discrepancies (like class bias and under-representation), and engineering scalable model deployments via cloud infrastructure.
+Machine Learning Engineer specializing in **Computer Vision** and **Deep Learning**. I build, optimize, and deploy end-to-end AI systems—bridging the gap between raw data and production-ready applications. My expertise lies in designing robust Neural Networks (CNNs), handling data discrepancies (like class bias and under-representation), and engineering scalable model deployments.
 
 🔭 I’m currently working on **[AI Visual Assistant (VQA System)](https://github.com/Ridhima028/visual-assistant)**
 
@@ -23,21 +23,13 @@ Machine Learning Engineer specializing in **Computer Vision** and **Deep Learnin
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ridhima028&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Ridhima's GitHub Trophies" /></a>
-</div>
-
----
-
 
 ## 🔬 Selected ML Portfolio Projects
 
 ### 1. 👁️ [AI Visual Assistant (VQA System)](https://github.com/Ridhima028/visual-assistant)
-![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square&logo=github)
-![Version](https://img.shields.io/badge/Version-v1.2--Roadmap-blue?style=flat-square)
 
 **End-to-End Visual Question Answering System**
+
 - **Architecture:** Integrated Deep Learning inference with a high-performance **FastAPI** backend and an interactive **Streamlit** user interface.
 - **Workflow:** Designed a robust monorepo architecture to streamline data streaming between the AI language/vision engine and the frontend layer.
 - **Current Sprint:** Optimizing inference latency and implementing **Multimodal support** for real-time video processing.
@@ -67,9 +59,10 @@ Actively seeking opportunities to leverage my skills in **Machine Learning**, **
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ridhima-goyal-623b07337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:ridsgoyal08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://github.com/Ridhima028"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </div>
+
 
 
 
