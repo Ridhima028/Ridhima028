@@ -22,10 +22,12 @@ Machine Learning Engineer specializing in **Computer Vision** and **Deep Learnin
 
 ## 🔬 Selected ML Portfolio Projects
 
-### 1. 👁️ [AI Visual Assistant (VQA System)](https://github.com/Ridhima028/visual-assistant)
+### 1. 👁️ [AI Visual Assistant (VQA System)](https://github.com/Ridhima028/visual-assistant) 
+`Status: 🚀 Active Development / v1.2 Roadmap`
 *End-to-End Visual Question Answering System*
 - **Architecture:** Integrated Deep Learning inference with a high-performance **FastAPI** backend and an interactive **Streamlit** user interface.
 - **Workflow:** Designed a robust monorepo architecture to streamline data streaming between the AI language/vision engine and the frontend layer.
+- **Current Sprint:** Optimizing inference latency and implementing **Multimodal support** for real-time video processing.
 - **Deployment:** Engineered a seamless, production-ready cloud deployment hosted on **Render**.
 
 ### 2. 🎭 [Gender and Age Detector](https://github.com/Ridhima028/gender-age-detector)
@@ -50,7 +52,7 @@ Machine Learning Engineer specializing in **Computer Vision** and **Deep Learnin
 Actively seeking opportunities to leverage my skills in **Machine Learning**, **Deep Learning**, and **Computer Vision** to drive impactful, data-driven solutions.
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="www.linkedin.com/in/ridhima-goyal-623b07337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="ridsgoyal08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://github.com/Ridhima028"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </div>
