@@ -22,9 +22,13 @@ Machine Learning Engineer specializing in **Computer Vision** and **Deep Learnin
 
 ## 🔬 Selected ML Portfolio Projects
 
-### 1. 👁️ [AI Visual Assistant (VQA System)](https://github.com/Ridhima028/visual-assistant) 
-`Status: 🚀 Active Development / v1.2 Roadmap`
-*End-to-End Visual Question Answering System*
+## 🔬 Selected ML Portfolio Projects
+
+### 1. 👁️ [AI Visual Assistant (VQA System)](https://github.com/Ridhima028/visual-assistant)
+![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square&logo=github)
+![Version](https://img.shields.io/badge/Version-v1.2--Roadmap-blue?style=flat-square)
+
+**End-to-End Visual Question Answering System**
 - **Architecture:** Integrated Deep Learning inference with a high-performance **FastAPI** backend and an interactive **Streamlit** user interface.
 - **Workflow:** Designed a robust monorepo architecture to streamline data streaming between the AI language/vision engine and the frontend layer.
 - **Current Sprint:** Optimizing inference latency and implementing **Multimodal support** for real-time video processing.
