@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ridhima&fontSize=80&fontAlignY=35&animation=twinkling&desc=GenAI%20%26%20Speech%20AI%20%7C%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20FastAPI&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ridhima&fontSize=80&fontAlignY=35&animation=twinkling&desc=GenAI%20%26amp%3B%20Speech%20AI%20%7C%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20FastAPI&descAlignY=55&descAlign=50" />
 </div>
 
 ## 🧠 About Me
